@@ -4,13 +4,12 @@ Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
 Résumer le projet en une phrase concise.   
-
+Un jeux roguelike crée par samuel et moi.
 ### Description du projet 
-Décrivez les grandes lignes de votre projet. 
-
+Un nouveau jeux roguelike baser sur un histoir dans un labo qui tourne mal , ca seras en 16 bit.
 ### Schéma du projet ou scénarimage
 Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
-
+Le déroulement de mon expérience grâce au scénarimage 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
 
